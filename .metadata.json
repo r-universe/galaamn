@@ -1,0 +1,10 @@
+[
+  {
+    "package": "NSO1212",
+    "oncran": true
+  },
+  {
+    "package": "simukde",
+    "oncran": true
+  }
+]
